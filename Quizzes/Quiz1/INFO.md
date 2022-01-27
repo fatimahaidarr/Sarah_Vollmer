@@ -3,6 +3,7 @@
 ## First Step
 
 [] Make three new folders for `Quiz2`, `Quiz3`, `Quiz4`
+I DID THE 3 FOLDERS IN MY REPO
 
 ---
 
